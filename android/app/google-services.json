@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435752540938",
+    "project_id": "chatapp-5f6a7",
+    "storage_bucket": "chatapp-5f6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435752540938:android:ac65f0484241584601b8f3",
+        "android_client_info": {
+          "package_name": "com.MyChatApp.flashchatapplication_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435752540938-3tvih3524r4q46iooc6enoudtillgk21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb8O4n2JZ2XrnNIGnch2LMkvnyVDDnqvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435752540938-3tvih3524r4q46iooc6enoudtillgk21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
